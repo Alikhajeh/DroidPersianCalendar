@@ -41,6 +41,6 @@ https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 ## Build
 
-1. `git clone https://github.com/persian-calendar/DroidPersianCalendar`
+1. `git clone https://github.com/Alikhajeh/DroidPersianCalendar`
 1. Import the project on Android Studio
 

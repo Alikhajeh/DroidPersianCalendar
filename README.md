@@ -11,12 +11,7 @@
 
 </div>
 
-## Download
 
-- [F-Droid](https://f-droid.org/app/com.alikhajeh.persiancalendar)
-- [Google Play](https://play.google.com/store/apps/details?id=com.alikhajeh.persiancalendar)
-- [Github](https://github.com/persian-calendar/DroidPersianCalendar/releases/)
-- [Bazaar](http://cafebazaar.ir/app/com.alikhajeh.persiancalendar)
 
 ## License
 
